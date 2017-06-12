@@ -22,4 +22,4 @@ require_relative 'RbColor'
 @username = "aymanmalaiwah".text_underline # Output =  Text underline
 ```
 ## Note 
-<strong>Must Function showColor() Used Of Show All Name Function Color</strong>
+<strong>Exist Function showColor() Used Of Show All Name Function Color</strong>
